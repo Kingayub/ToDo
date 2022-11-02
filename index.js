@@ -41,7 +41,3 @@ const todoList = {
         this.items[index].completed = true;
     },
 };
-
-todoList.complete(1);
-todoList.complete(2);
-todoList.printAll()
